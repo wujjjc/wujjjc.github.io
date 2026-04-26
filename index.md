@@ -3,4 +3,6 @@
 这是一个使用 **Cayman** 主题的个人网站。
 
 - 我的 GitHub: [@wujjjc](https://github.com/wujjjc)
-- 我的项目: [Awesome Project](https://github.com/wujjjc/awesome)
+- 我的项目: [tianchi Project](https://github.com/wujjjc/alitianchi)
+- 我的项目:  [Sasrec](https://github.com/wujjjc/Sasrec)
+- 我的项目:  [GemiRec](https://github.com/wujjjc/GemiRec)
