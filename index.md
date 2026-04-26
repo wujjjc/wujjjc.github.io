@@ -6,7 +6,6 @@ layout: default
   <button id="btn-zh">中文</button> | <button id="btn-en">English</button>
 </div>
 
-<!-- 这里必须有一个空行 -->
 <div id="zh-content" style="display: block;">
 
 # 欢迎来到我的主页
@@ -21,7 +20,6 @@ layout: default
 
 </div>
 
-<!-- 空行 -->
 <div id="en-content" style="display: none;">
 
 # Welcome to My Homepage
@@ -36,7 +34,6 @@ A personal website using the **Cayman** theme.
 
 </div>
 
-<!-- 空行 -->
 <script>
   function setLanguage(lang) {
     var zh = document.getElementById('zh-content');
