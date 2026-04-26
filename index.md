@@ -6,4 +6,5 @@
 - 我的项目: [tianchi Project](https://github.com/wujjjc/alitianchi)
 - 我的项目:  [Sasrec](https://github.com/wujjjc/Sasrec)
 - 我的项目:  [GemiRec](https://github.com/wujjjc/GemiRec)
-- 学习日志： [rq-vae] (https://www.cnblogs.com/GlenTt/p/19094976)(非本人写)
+- 学习日志(非本人写)： [rq-vae] (https://www.cnblogs.com/GlenTt/p/19094976)
+- 
