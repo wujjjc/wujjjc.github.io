@@ -82,7 +82,7 @@ Hi，我是 wujjjc，一个对推荐系统和深度学习感兴趣的学习者�
     • <strong>MIRM</strong>：融合用户嵌入与量化兴趣嵌入进行多兴趣召回。
   </div>
   <div class="metrics">
-    📊 Metrics: Amazon Books Recall@50 ↑12.6% | 工业数据 Recall@200 ↑40.0% | 线上 CTR ↑0.38%
+    📊 Metrics: RetailRocket Recall@20 = 26% | NDCG@20 = 15% 
   </div>
   <div class="links">
     🔗 <a href="https://github.com/wujjjc/GemiRec">GitHub Repository</a>
