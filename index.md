@@ -106,7 +106,7 @@ Hi，我是 wujjjc，一个对推荐系统和深度学习感兴趣的学习者�
 ## 联系
 
 - GitHub: [@wujjjc](https://github.com/wujjjc)
-- 博客: [博客文章](/blog) | [标签](/tags)
+- 博客: [博客文章](/blog.html) | [标签](/tags.html)
 
 </div>
 
@@ -174,7 +174,7 @@ Hi, I'm wujjjc, a learner interested in recommender systems and deep learning. H
 ## Contact
 
 - GitHub: [@wujjjc](https://github.com/wujjjc)
-- Blog: [Blog Posts](/blog) | [Tags](/tags)
+- Blog: [Blog Posts](/blog.html) | [Tags](/tags.html)
 
 </div>
 

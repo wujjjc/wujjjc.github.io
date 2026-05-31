@@ -74,7 +74,7 @@ layout: default
   .back-link:hover { text-decoration: underline; }
 </style>
 
-<a class="back-link" href="/blog">&larr; 返回博客列表</a>
+<a class="back-link" href="/blog.html">&larr; 返回博客列表</a>
 
 <article>
   <h1>{{ page.title }}</h1>
@@ -87,7 +87,7 @@ layout: default
     {% if page.tags.size > 0 %}
       <span class="tags">
         {% for tag in page.tags %}
-          <a href="/tags#{{ tag }}">{{ tag }}</a>
+          <a href="/tags.html#{{ tag }}">{{ tag }}</a>
         {% endfor %}
       </span>
     {% endif %}
